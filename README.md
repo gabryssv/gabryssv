@@ -1,4 +1,4 @@
-ui/ux designer / dc bot dev
+ui/ux designer / dc bot dev</br>
 leraning python 🐍
 
 <a href="https://discord.com/users/1204732596202901515">
