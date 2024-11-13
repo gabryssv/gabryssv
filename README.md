@@ -1,6 +1,12 @@
 <p>ui/ux designer & dc bot dev</p>
 <p>leraning python 🐍</p>
-<a href="https://discord.com/users/1204732596202901515">
-  <img src="https://lanyard.cnrad.dev/api/1204732596202901515?bg=00000000"/>
-</a>
 <img src="https://komarev.com/ghpvc/?username=vvhsx"/>
+<table align="center">
+  <tr>
+    <td>
+		<a href="https://discord.com/users/1204732596202901515" target="_blank" rel="nofollow">
+			<img src="https://lanyard.cnrad.dev/api/1204732596202901515?bg=00000000" alt="Discord Presence" align="center">
+		</a>
+    </td>
+  </tr>
+</table>
