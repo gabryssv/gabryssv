@@ -1,7 +1,7 @@
 <p>ui/ux designer & dc bot dev</p>
 <p>leraning python 🐍</p>
 <img src="https://komarev.com/ghpvc/?username=vvhsx"/>
-<table align="center">
+<table style="border: none; border-collapse: collapse;" align="center">
   <tr>
     <td>
 		<a href="https://discord.com/users/1204732596202901515" target="_blank" rel="nofollow">
