@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vvhsx&color=4be36c&style=flat-square)</br>
 ui/ux designer & dc bot dev</br>
 leraning python 🐍
+
 <a href="https://discord.com/users/1204732596202901515" target="_blank" rel="nofollow">
 	<img src="https://lanyard-profile-readme.vercel.app/api/1204732596202901515?idleMessage=Probably%20doing%20something%20else...&bg=1c1c1c" alt="Discord Presence" align="center">
 </a>
