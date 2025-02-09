@@ -8,5 +8,5 @@ leraning python 🐍
 </a>
 </br>
 <img align="center" style="padding=0;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabryssv&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=dadada&icon_color=ffffff&hide_title=true" align="center">
-</br>
+<div style="height:100px"></div>
 <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryssv&layout=compact&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_title=true&count_private=true&extra=inversify/InversifyJS;ragempcommunity/ragemp-types;openmultiplayer/web;liberty-mp/ng-select,ng2-tooltip-directive,angular-fontawesome,ngx-smooth-dnd,smooth-dnd" align="center">
