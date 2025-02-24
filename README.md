@@ -16,6 +16,6 @@ leraning python 🐍
 </table>
 <table align="center">
 <td>
-<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryssv&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_title=true&count_private=true" align="center">
+<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryssv&bg_color=1c1c1c&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_title=true&count_private=true&layout=compact" align="center">
 </td>
 </table>
