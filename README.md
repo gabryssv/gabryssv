@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/81e604ed-707b-43e8-af18-08960f8b97d9.svg)](https://wakatime.com/@81e604ed-707b-43e8-af18-08960f8b97d9)
+<a href="https://wakatime.com/@81e604ed-707b-43e8-af18-08960f8b97d9"><img src="https://wakatime.com/badge/user/81e604ed-707b-43e8-af18-08960f8b97d9.svg" alt="Total time coded since Nov 16 2024" /></a>
 	
 frontend & ui/ux </br>
 leraning next.js and django
