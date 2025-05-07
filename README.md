@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/81e604ed-707b-43e8-af18-08960f8b97d9.svg)](https://wakatime.com/@81e604ed-707b-43e8-af18-08960f8b97d9)
 	
-ui/ux designer & dc bot dev</br>
-leraning python 🐍
+frontend & ui/ux </br>
+leraning next.js and django
 <table align="center">
 <td align="center">
 <a href="https://discord.com/users/1204732596202901515" target="_blank" rel="nofollow">
